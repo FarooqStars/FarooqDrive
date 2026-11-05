@@ -477,12 +477,12 @@ class _FileManagerPageState extends State<FileManagerPage> {
         ),
         actions: [
           TextButton.icon(
-            onPressed: () => launchUrl(Uri.parse('https://www.mymandoob.com/farooqdrive/'), mode: LaunchMode.platformDefault, webOnlyWindowName: '_blank'),
+            onPressed: () => launchUrl(Uri.parse('https://farooqmughal.net/farooqdrive/'), mode: LaunchMode.platformDefault, webOnlyWindowName: '_blank'),
             icon: const Icon(Icons.language),
             label: const Text('FarooqDrive'),
           ),
           TextButton.icon(
-            onPressed: () => launchUrl(Uri.parse('mailto:support@mymandoob.com')),
+            onPressed: () => launchUrl(Uri.parse('mailto:support@farooqmughal.net')),
             icon: const Icon(Icons.support_agent),
             label: const Text('Support'),
           ),
@@ -886,16 +886,16 @@ class _Sidebar extends StatelessWidget {
                   IconButton(
                     tooltip: 'FarooqDrive website',
                     onPressed: () => launchUrl(
-                      Uri.parse('https://www.mymandoob.com/farooqdrive/'),
+                      Uri.parse('https://farooqmughal.net/farooqdrive/'),
                       mode: LaunchMode.platformDefault,
                       webOnlyWindowName: '_blank',
                     ),
                     icon: const Icon(Icons.language, color: Color(0xff9db5d1)),
                   ),
                   IconButton(
-                    tooltip: 'Contact support: support@mymandoob.com',
+                    tooltip: 'Contact support: support@farooqmughal.net',
                     onPressed: () => launchUrl(
-                      Uri.parse('mailto:support@mymandoob.com'),
+                      Uri.parse('mailto:support@farooqmughal.net'),
                     ),
                     icon: const Icon(
                       Icons.support_agent,
