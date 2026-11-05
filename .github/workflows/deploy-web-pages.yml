@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           # Hands-on approved 21.1-preserved source. Web build CI passed on this commit.
-          ref: 5ab9753b3f14da21c9d5b2c163f980ca83356a34
+          ref: db97ab9b7a2ba3669effe9acd6e254978c19201b
       - uses: actions/setup-node@v4
         with:
           node-version: 22
