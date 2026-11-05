@@ -22,7 +22,7 @@ Copy, Cut/Paste, upload and internal drag-and-drop use destination verification.
 
 In the existing FarooqDrive app registration, add Authentication → **Single-page application** → redirect URI:
 
-`https://farooqmusicai.github.io/FarooqDrive/microsoft-callback.html`
+`https://farooqstars.github.io/FarooqDrive/microsoft-callback.html`
 
 Keep the Windows Mobile and desktop `http://localhost` redirect. Use delegated `User.Read` and `Files.ReadWrite`; do not add a client secret to the browser app. The build receives the public app ID through `MICROSOFT_WEB_CLIENT_ID`, using the existing GitHub `FAROOQDRIVE_MICROSOFT_CLIENT_ID` secret. The account audience is organizational and personal Microsoft accounts. The Microsoft branding URLs do not constitute publisher verification; a verified custom domain and applicable Partner Center steps are a separate owner task.
 
@@ -30,7 +30,7 @@ The callback is a standalone, same-origin MSAL redirect bridge. Do not load Flut
 
 ## Google setup
 
-Keep the existing web OAuth client (`FAROOQDRIVE_WEB_CLIENT_ID`) and authorized JavaScript origin `https://farooqmusicai.github.io`. No new Google scope is introduced by this update. Existing consent, publishing and verification requirements continue to apply. Update public consent branding/support/privacy URLs to match the published website if they differ.
+Keep the existing web OAuth client (`FAROOQDRIVE_WEB_CLIENT_ID`) and authorized JavaScript origin `https://farooqstars.github.io`. No new Google scope is introduced by this update. Existing consent, publishing and verification requirements continue to apply. Update public consent branding/support/privacy URLs to match the published website if they differ.
 
 ## Release acceptance
 

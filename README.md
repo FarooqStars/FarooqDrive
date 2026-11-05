@@ -124,7 +124,7 @@ Web builds use the configured Google Web OAuth client ID. Windows uses the deskt
 
 The Entra application for the Web edition requires a **Single-page application** redirect URI:
 
-`https://farooqmusicai.github.io/FarooqDrive/microsoft-callback.html`
+`https://farooqstars.github.io/FarooqDrive/microsoft-callback.html`
 
 Keep the Windows desktop redirect separately for the Windows build. Current delegated permissions are `User.Read` and `Files.ReadWrite`. A client secret must never be embedded in the browser build.
 
