@@ -2,7 +2,7 @@
 
 **One file manager for multiple Google Drive and Microsoft OneDrive accounts.**
 
-[Open the Web App](https://farooqmusicai.github.io/FarooqDrive/) · [FarooqDrive Website](https://farooqmughal.net/farooqdrive/) · [Help & Support](https://farooqmughal.net/farooqdrive/support/) · [Privacy](https://farooqmughal.net/farooqdrive/privacy/) · [Terms](https://farooqmughal.net/farooqdrive/terms/)
+[Open the Web App](https://farooqstars.github.io/FarooqDrive/) · [FarooqDrive Website](https://farooqmughal.net/farooqdrive/) · [Help & Support](https://farooqmughal.net/farooqdrive/support/) · [Privacy](https://farooqmughal.net/farooqdrive/privacy/) · [Terms](https://farooqmughal.net/farooqdrive/terms/)
 
 ## Current status — 8 September 2026
 
@@ -132,9 +132,9 @@ GitHub Actions uses repository configuration/secrets for the public OAuth applic
 
 ## Source branches and platforms
 
-- **Current validated Windows/Web feature line:** [web-update-21-1](https://github.com/farooqmusicai/FarooqDrive/tree/web-update-21-1)
-- **Windows/OneDrive development history:** [onedrive-foundation](https://github.com/farooqmusicai/FarooqDrive/tree/onedrive-foundation)
-- **Android foundation:** [android-foundation](https://github.com/farooqmusicai/FarooqDrive/tree/android-foundation)
+- **Current validated Windows/Web feature line:** [web-update-21-1](https://github.com/FarooqStars/FarooqDrive/tree/web-update-21-1)
+- **Windows/OneDrive development history:** [onedrive-foundation](https://github.com/FarooqStars/FarooqDrive/tree/onedrive-foundation)
+- **Android foundation:** [android-foundation](https://github.com/FarooqStars/FarooqDrive/tree/android-foundation)
 - **Flutter application:** `apps/flutter`
 - **Earlier desktop code/build artifacts:** `apps/desktop` and `dist`
 - **Android and iOS:** planned next after Windows/Web release stabilization.
