@@ -43,4 +43,4 @@ Same-account Google-native copies preserve native format and keep originals. Bet
 
 Tokens use Windows secure storage. Scan metadata, settings and local history remain on this device; file traffic goes directly to selected providers. History shows up to 400 entries with a seven-day filter applied when loaded/recorded; Clear History removes it. Local crash diagnostics are separate from activity history. See Privacy for retention and removal details.
 
-Help is available inside the app in English and Urdu. Support: support@mymandoob.com. Published web/mobile features can differ; OneDrive in this document describes Windows.
+Help is available inside the app in English and Urdu. Support: support@farooqmughal.net. Published web/mobile features can differ; OneDrive in this document describes Windows.

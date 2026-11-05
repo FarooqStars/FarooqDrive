@@ -58,4 +58,4 @@ Web میں Microsoft session عارضی memory میں ہے؛ مکمل reload ک�
 
 نسخہ **21.1** برقرار ہے۔ **Android، iPhone/iPad اور macOS apps جلد آ رہی ہیں۔**
 
-[مکمل انگریزی رہنمائی](ONEDRIVE-GUIDE.md) · [مدد](https://www.mymandoob.com/farooqdrive/support.html) · [رازداری](https://www.mymandoob.com/farooqdrive/privacy.html) · [شرائط](https://www.mymandoob.com/farooqdrive/terms.html)
+[مکمل انگریزی رہنمائی](ONEDRIVE-GUIDE.md) · [مدد](https://farooqmughal.net/farooqdrive/support/) · [رازداری](https://farooqmughal.net/farooqdrive/privacy/) · [شرائط](https://farooqmughal.net/farooqdrive/terms/)

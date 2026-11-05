@@ -2,7 +2,7 @@
 
 **One file manager for multiple Google Drive and Microsoft OneDrive accounts.**
 
-[Open the Web App](https://farooqmusicai.github.io/FarooqDrive/) · [FarooqDrive Website](https://www.mymandoob.com/farooqdrive/) · [Help & Support](https://www.mymandoob.com/farooqdrive/support.html) · [Privacy](https://www.mymandoob.com/farooqdrive/privacy.html) · [Terms](https://www.mymandoob.com/farooqdrive/terms.html)
+[Open the Web App](https://farooqmusicai.github.io/FarooqDrive/) · [FarooqDrive Website](https://farooqmughal.net/farooqdrive/) · [Help & Support](https://farooqmughal.net/farooqdrive/support/) · [Privacy](https://farooqmughal.net/farooqdrive/privacy/) · [Terms](https://farooqmughal.net/farooqdrive/terms/)
 
 ## Current status — 8 September 2026
 
@@ -165,10 +165,10 @@ Automated tests do not replace live provider acceptance testing. Google/Microsof
 - [OneDrive اردو رہنمائی](docs/ONEDRIVE-GUIDE-URDU.md)
 - [Web setup, privacy, limits and acceptance checks](docs/WEB-21.1-UPDATE.md)
 - [Windows release text](docs/WINDOWS-21.1-RELEASE-TEXT.md)
-- [FarooqDrive Website](https://www.mymandoob.com/farooqdrive/)
-- [Support](https://www.mymandoob.com/farooqdrive/support.html)
-- [Privacy Policy](https://www.mymandoob.com/farooqdrive/privacy.html)
-- [Terms](https://www.mymandoob.com/farooqdrive/terms.html)
+- [FarooqDrive Website](https://farooqmughal.net/farooqdrive/)
+- [Support](https://farooqmughal.net/farooqdrive/support/)
+- [Privacy Policy](https://farooqmughal.net/farooqdrive/privacy/)
+- [Terms](https://farooqmughal.net/farooqdrive/terms/)
 - [Earlier Version 19 demo video](https://www.youtube.com/watch?v=JrCJkNApJtU)
 
 ## Roadmap
@@ -180,4 +180,4 @@ Automated tests do not replace live provider acceptance testing. Google/Microsof
 
 ---
 
-**FarooqDrive** is designed and maintained by Mohammad Farooq. Support: `support@mymandoob.com`.
+**FarooqDrive** is designed and maintained by Mohammad Farooq. Support: `support@farooqmughal.net`.

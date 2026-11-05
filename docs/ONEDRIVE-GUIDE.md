@@ -65,7 +65,7 @@ Publisher verification is separate from Microsoft branding URLs. Google OAuth ve
 
 ## Support and platforms
 
-[Support](https://www.mymandoob.com/farooqdrive/support.html) · [Privacy](https://www.mymandoob.com/farooqdrive/privacy.html) · [Terms](https://www.mymandoob.com/farooqdrive/terms.html)
+[Support](https://farooqmughal.net/farooqdrive/support/) · [Privacy](https://farooqmughal.net/farooqdrive/privacy/) · [Terms](https://farooqmughal.net/farooqdrive/terms/)
 
 For a problem, report the platform, version, provider, operation and sanitized Activity error. Do not send passwords, tokens or sign-in callback URLs containing a code.
 

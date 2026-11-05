@@ -31,6 +31,6 @@ code میں developer credentials، صارف کے ٹوکن، دستخطی سرٹ
 
 ## مدد
 
-ای میل: support@mymandoob.com  
-ویب سائٹ: https://www.mymandoob.com/farooqdrive/
+ای میل: support@farooqmughal.net  
+ویب سائٹ: https://farooqmughal.net/farooqdrive/
 

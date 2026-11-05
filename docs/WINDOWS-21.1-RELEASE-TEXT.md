@@ -20,8 +20,8 @@ Includes English and Urdu Help, a red transfer-information button and local acti
 
 Google and Microsoft accounts and an internet connection are required for their respective services. FarooqDrive is an independent application and is not affiliated with or endorsed by Google or Microsoft.
 
-Support: support@mymandoob.com
-Website: https://www.mymandoob.com/farooqdrive/
+Support: support@farooqmughal.net
+Website: https://farooqmughal.net/farooqdrive/
 
 ## Short description
 
@@ -54,7 +54,7 @@ No new scopes or OAuth client credentials are required for the appearance, sorti
 1. Microsoft Entra: retain the working desktop registration, localhost redirect and supported work/school plus personal accounts. Current requested delegated access: User.Read and Files.ReadWrite, plus OpenID identity/offline-access scopes. Set or verify Home page, Privacy statement and Terms URLs in Branding & properties after the pages are live. Review publisher-domain/publisher verification for public organization-account adoption; organizational consent policies may require an administrator. Store publisher registration is separate from Entra publisher verification. Do not add Files.ReadWrite.All or application permissions for these UI changes.
 2. Google Auth Platform: current desktop code requests the full drive scope, plus identity scopes. Full drive is restricted. Check Audience/Publishing status and Verification Center for production approval, authorized domains and a matching public homepage/privacy link. Changes to branding or scopes can require review. Native device-only data access may qualify for a security-assessment exception, but do not assume verification is waived or that approval is already present. No new scope is introduced here.
 3. Microsoft Partner Center: update description, features, release notes, support/privacy links and screenshots showing both themes and both providers with test data. Review privacy declarations against the actual local data use. Test the matching MSIX before submitting once. Display version 21.1 can remain stable; the eventual MSIX package identity/version must still meet Store update rules and allow existing users to receive the update. Inspect the currently published package before selecting that number.
-4. Website: use the repository Privacy, Terms and Help text for the matching Windows release. Keep existing web/mobile availability clearly identified. Publish legal pages before pointing console links to them. This repository change does not deploy mymandoob.com; hosting access/source is needed for that separate publication.
+4. Website: use the repository Privacy, Terms and Help text for the matching Windows release. Keep existing web/mobile availability clearly identified. Publish legal pages before pointing console links to them. This repository change does not deploy farooqmughal.net; hosting access/source is needed for that separate publication.
 
 Sources checked 6 September 2026:
 - https://developers.google.com/identity/protocols/oauth2/production-readiness/restricted-scope-verification

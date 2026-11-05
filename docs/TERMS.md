@@ -41,8 +41,8 @@ be excluded.
 
 ## Support and changes
 
-Support: support@mymandoob.com  
-Website: https://www.mymandoob.com/farooqdrive/
+Support: support@farooqmughal.net  
+Website: https://farooqmughal.net/farooqdrive/
 
 These terms may be updated when application functionality, distribution, or legal
 requirements change. The latest published version will state its update date.
